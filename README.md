@@ -1,1 +1,5 @@
-# exam
+# Documentation
+Project Name: How To Pass An Exam 
+Project Description: The video shows how Aadil tries to pass an exam and ends up getting an A+. We attempted to create a comical film by making Aadil break the rule – which, of course, we don’t encourage or endorse by any means. We incorporated scenes with diverse angles and soundtracks, which in overall, added the sense of urgency and humor in appropriate places. We hope our video is something that the viewer can laugh at and enjoy lightly.  
+Process: We employed various visual/sound effects. For example, when we portrayed how Aadil failed to study, we incorporated a series of cuts – partying, dancing, drinking, and sleeping – quite rapidly to project a sense of chaos. Also, we embedded soundtracks that would enhance the general mood of the scenes, ranging from tension to humor. 
+Reflection/Evaluation: We changed scripts multiple times. The original idea we had seemed too plot-focused while lacking rooms for visual/sound effects, so we instead chose a simpler plot with a great potential for creative editing. We aimed to explore various techniques we’ve learned during the class without being too consumed by plot or acting, and we successfully reached the aim by creating a simple but comical and intuitive plot and embedding various video effects. 
